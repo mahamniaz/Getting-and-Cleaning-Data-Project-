@@ -4,10 +4,11 @@ This code book summarizes the resulting data fields in tidy.txt.
 
 ####Identifiers
 
-..*subject - The ID of the test subject
-..*activity - The type of activity performed when the corresponding measurements were taken
+subject - The ID of the test subject
+activity - The type of activity performed when the corresponding measurements were taken
 
 ####Measurements
+
 tBodyAccMeanX
 tBodyAccMeanY
 tBodyAccMeanZ
@@ -46,56 +47,56 @@ tBodyAccJerkMagMean
 tBodyAccJerkMagStd
 tBodyGyroMagMean
 tBodyGyroMagStd
-*tBodyGyroJerkMagMean
-*tBodyGyroJerkMagStd
-*fBodyAccMeanX
-*fBodyAccMeanY
-*fBodyAccMeanZ
-*fBodyAccStdX
-*fBodyAccStdY
-*fBodyAccStdZ
-*fBodyAccMeanFreqX
-*fBodyAccMeanFreqY
-*fBodyAccMeanFreqZ
-*fBodyAccJerkMeanX
-*fBodyAccJerkMeanY
-*fBodyAccJerkMeanZ
-*fBodyAccJerkStdX
-*fBodyAccJerkStdY
-*fBodyAccJerkStdZ
-*fBodyAccJerkMeanFreqX
-*fBodyAccJerkMeanFreqY
-*fBodyAccJerkMeanFreqZ
-*fBodyGyroMeanX
-*fBodyGyroMeanY
-*fBodyGyroMeanZ
-*fBodyGyroStdX
-*fBodyGyroStdY
-*fBodyGyroStdZ
-*fBodyGyroMeanFreqX
-*fBodyGyroMeanFreqY
-*fBodyGyroMeanFreqZ
-*fBodyAccMagMean
-*fBodyAccMagStd
-*fBodyAccMagMeanFreq
-*fBodyBodyAccJerkMagMean
-*fBodyBodyAccJerkMagStd
-*fBodyBodyAccJerkMagMeanFreq
-*fBodyBodyGyroMagMean
-*fBodyBodyGyroMagStd
-*fBodyBodyGyroMagMeanFreq
-*fBodyBodyGyroJerkMagMean
-*fBodyBodyGyroJerkMagStd
-*fBodyBodyGyroJerkMagMeanFreq
+tBodyGyroJerkMagMean
+tBodyGyroJerkMagStd
+fBodyAccMeanX
+fBodyAccMeanY
+fBodyAccMeanZ
+fBodyAccStdX
+fBodyAccStdY
+fBodyAccStdZ
+fBodyAccMeanFreqX
+fBodyAccMeanFreqY
+fBodyAccMeanFreqZ
+fBodyAccJerkMeanX
+fBodyAccJerkMeanY
+fBodyAccJerkMeanZ
+fBodyAccJerkStdX
+fBodyAccJerkStdY
+fBodyAccJerkStdZ
+fBodyAccJerkMeanFreqX
+fBodyAccJerkMeanFreqY
+fBodyAccJerkMeanFreqZ
+fBodyGyroMeanX
+fBodyGyroMeanY
+fBodyGyroMeanZ
+fBodyGyroStdX
+fBodyGyroStdY
+fBodyGyroStdZ
+fBodyGyroMeanFreqX
+fBodyGyroMeanFreqY
+fBodyGyroMeanFreqZ
+fBodyAccMagMean
+fBodyAccMagStd
+fBodyAccMagMeanFreq
+fBodyBodyAccJerkMagMean
+fBodyBodyAccJerkMagStd
+fBodyBodyAccJerkMagMeanFreq
+fBodyBodyGyroMagMean
+fBodyBodyGyroMagStd
+fBodyBodyGyroMagMeanFreq
+fBodyBodyGyroJerkMagMean
+fBodyBodyGyroJerkMagStd
+fBodyBodyGyroJerkMagMeanFreq
 
 ####Activity Labels
 
-..*WALKING (value 1): subject was walking during the test
-..*WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
-..*WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
-..*SITTING (value 4): subject was sitting during the test
-..*STANDING (value 5): subject was standing during the test
-..*LAYING (value 6): subject was laying down during the test
+*WALKING (value 1): subject was walking during the test
+*WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
+*WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
+*SITTING (value 4): subject was sitting during the test
+*STANDING (value 5): subject was standing during the test
+*LAYING (value 6): subject was laying down during the test
 
 
 
